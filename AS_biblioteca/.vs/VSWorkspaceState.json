@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Configuration",
+    "\\Controllers",
+    "\\Data",
+    "\\Data\\Context",
+    "\\Data\\Types",
+    "\\Domain",
+    "\\Domain\\Interfaces",
+    "\\Domain\\Repositories"
+  ],
+  "SelectedNode": "\\Domain\\Repositories\\BookRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

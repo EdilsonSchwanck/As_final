@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AS_biblioteca.props" />
+</Project>
